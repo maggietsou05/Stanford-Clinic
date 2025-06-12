@@ -25,9 +25,11 @@ The dashboard will automatically assign a patient ID and save documented symptom
 2. Document findings in EHR under 'pre-dialysis assessment' <br>
 3. If APP unavailable, notify covering nephrologist via pager/text <br><br>
 
-If other symptoms are newly presented, other roles such as APP are able to add them using the existing patient ID. <br>
-The diagnostician, or MD, are able to see exactly what symptoms occured at what time. <br>
-The PCC will have the full patient history, as well as patient education points, to assist in communication with the patient or their families. <br><br>
+As for the other roles:
+
+- If other symptoms are newly presented, the APP is able to add them using the existing patient ID. <br>
+- The diagnostician, or MD, are able to see exactly what symptoms occured and at what time. <br>
+- The PCC will also have the full patient history, as well as patient education points, to assist in communication with the patient or their families. <br><br>
 
 Lastly, I developed a change management plan to help clinics adopt the dashboard smoothly. It can be found [here](Training_Strategy)
 
